@@ -22,6 +22,15 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
+Conforme o diagrama de fluxo do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. Para visualizar o wireframe interativo, acesse o PRONTCLINIC – login1 (marvelapp.com)
+
+As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+⦁	Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação secundaria do site, menu de login de usuario;
+⦁	Conteúdo - apresenta o conteúdo das informações solicitadas;
+⦁	Barra lateral - apresenta os elementos de navegação principal,  associados aos elementos do bloco de conteúdo.
+
+
+
 
  
 > **Links Úteis**:
